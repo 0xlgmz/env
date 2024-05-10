@@ -1,5 +1,5 @@
-## TERMINAL COMMANDS:
-# Install ZSH
+# TERMINAL COMMANDS:
+#### Install ZSH
 + https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
 + git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
