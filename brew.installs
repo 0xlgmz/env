@@ -1,0 +1,2 @@
+brew install atuin
+# cmd: atuin import zsh
