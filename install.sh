@@ -32,5 +32,11 @@ cp .tmux.conf "$USER_HOME/.tmux.conf"
 echo "==> Copying .zshrc to $USER_HOME/.zshrc..."
 cp .zshrc "$USER_HOME/.zshrc"
 
+echo "==> Setting Git Username"
+git config --global user.name "0xlgmz"
+
+echo "==> Setting Git Email"
+git config --global user.email lgomez13677@gmail.com
+
 echo "✅ Environment setup complete for $USER!"
 
