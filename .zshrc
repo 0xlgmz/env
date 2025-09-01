@@ -23,3 +23,4 @@ bindkey -v
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # tmux
+eval "$(atuin init zsh)"
