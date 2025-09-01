@@ -13,6 +13,7 @@ brew install awscli
 brew install --cask visual-studio-code
 brew install gemini-cli
 brew install --cask ghostty
+brew install --cask zen
 
 curl https://cursor.com/install -fsS | bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
